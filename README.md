@@ -11,12 +11,13 @@ The woldmap will be interactive as the user can select which year it wants to vi
 
 
 ## Data libraries
+* d3.min.js
+* d3.legend.js
 
 
 ## Data scources
 ### World Bank
 - Military spending
-- eductional spending
+- Eductional spending
 ### Our World in Data
-- Happiness index
-* [Happiness](https://ourworldindata.org/happiness-and-life-satisfaction)
+* [Happiness Index](https://ourworldindata.org/happiness-and-life-satisfaction)
