@@ -19,4 +19,4 @@ The woldmap will be interactive as the user can select which year it wants to vi
 - eductional spending
 ### Our World in Data
 - Happiness index
-* [Happiness] (https://ourworldindata.org/happiness-and-life-satisfaction)
+* [Happiness](https://ourworldindata.org/happiness-and-life-satisfaction)
