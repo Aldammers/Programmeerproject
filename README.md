@@ -9,6 +9,11 @@ And to show this I will focus on every countries military and education spending
 
 The woldmap will be interactive as the user can select which year it wants to visualize and on which country it wants to focus. And the line and bar graph next to it will depend on the country which will be selected and will show a year to year trend on military and educational spending and the happiness index.
 
+## interactive features
+* Chance year with world map
+* Able to select country on the world map and visual the data form that country on the line graph and bar chart
+* Delete or add a number of variables as lines to the line chart using boxes which can be selected.
+
 
 ## Data libraries
 * d3.min.js
