@@ -22,4 +22,7 @@ A csv file for databank.worldbank.org, where the data is ordered in Country, yea
 A csv file for databank.worldbank.org, where the data is ordered in Country, year0, year1. A python file will rewrite the data in a JSON file. Probably the same as the JSON file containing the happinnes index and military expenditure per country.
 
 
+## Sketch
+
+![](/Pictures/pic2.PNG)
 
