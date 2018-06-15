@@ -1,5 +1,5 @@
 # Programmeerproject
-Hier word ht eindproject van de minor programmeren geupload 
+Hier wordt het eindproject van de minor programmeren geupload 
 
 website: https://aldammers.github.io/Programmeerproject/
 ## Problem Statement
