@@ -1,0 +1,61 @@
+#headercontainer {
+    margin-top: 0;
+}
+
+.jumbotron {
+    padding-top: 5px !important;
+  	margin: auto;
+  	max-height: 150px;
+  	width: 100%;
+}
+
+.jumbotron h1 {
+	font-size: 30px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.jumbotron p {
+	font-size: 15px;
+}
+
+/* BODY */
+#maincontainer {
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+#selected-country {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+/*FOOTER*/
+footer {
+  	background-color: #f2f2f2;
+  	padding: 25px;
+}
+
+
+/*TOOLTIP*/
+.tooltip {
+	position: absolute;
+    color: #222;
+    background-color: white;
+    opacity: 0.9;
+	width: 150px;
+    padding: 5px;
+    font: 12px sans-serif;
+    border: 0px;
+    border-radius: 2px;
+	pointer-events: none;
+}
+
+
+/* NO DATA MESSAGE */
+.no-data {
+    fill: grey;
+	font-size: 30px;
+    font-weight: italic;
+}
