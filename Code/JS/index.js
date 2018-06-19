@@ -22,7 +22,7 @@ window.onload = function(){
 
     // read in all datasets
     d3.queue()
-        .defer(d3.json, '../data/mapData2.json')
+        .defer(d3.json, 'mapData2.json')
         .await(ready); 
         
    // when datasets reading is ready, display data in visualisation
